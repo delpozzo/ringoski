@@ -13,7 +13,7 @@ A skiing game for [Ringo (MAKERphone)](https://www.circuitmess.com/ringo/).
 ## Installation
 
 Step 1:
-Download `RingoSki-1.0.0.zip` from the `release` folder.
+Download [RingoSki-1.0.0.zip](https://github.com/delpozzo/ringoski/raw/master/release/RingoSki-1.0.0.zip) from the [release folder](https://github.com/delpozzo/ringoski/blob/master/release).
 
 Step 2:
 Unzip the `RingoSki-1.0.0.zip` archive.
