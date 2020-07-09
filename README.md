@@ -5,7 +5,9 @@
 A skiing game for [Ringo (MAKERphone)](https://www.circuitmess.com/ringo/).
 
 ![Screenshot](screenshots/ringoski-1.png?raw=true) ![Screenshot](screenshots/ringoski-2.png?raw=true) ![Screenshot](screenshots/ringoski-3.png?raw=true) ![Screenshot](screenshots/ringoski-4.png?raw=true)
+
 ![Screenshot](screenshots/ringoski-5.png?raw=true) ![Screenshot](screenshots/ringoski-6.png?raw=true) ![Screenshot](screenshots/ringoski-7.png?raw=true) ![Screenshot](screenshots/ringoski-8.png?raw=true)
+
 ![Screenshot](screenshots/ringoski-9.png?raw=true) ![Screenshot](screenshots/ringoski-10.png?raw=true) ![Screenshot](screenshots/ringoski-11.png?raw=true) ![Screenshot](screenshots/ringoski-12.png?raw=true)
 
 ## Installation
