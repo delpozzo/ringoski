@@ -1,14 +1,12 @@
-
-
 ## RingoSki Releases
 
 ### Latest Release
 
 [RingoSki-1.0.0.zip](https://github.com/delpozzo/ringoski/raw/master/release/RingoSki-1.0.0.zip) (click to download)
 
-**md5sum:** `06715285cfc878095d4a79e85393d9a7`
+**md5sum:** `4cfeee9c1d9544ae1adddd21d855ee08`
 
-**sha256sum:** `b663495b5ba110f69a908bd0139f021c934c6645c0509d368ba238c7ee648574`
+**sha256sum:** `44fbe7b98f0484cab9884d6682058d9d9a3b60a0625496a0389b193eb9cd45cf`
 
 **Release Notes**
 - Released 08 July 2020
