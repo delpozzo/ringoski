@@ -4,7 +4,7 @@
 
 A skiing game for [Ringo (MAKERphone)](https://www.circuitmess.com/ringo/).
 
-<span style="background-color:#FF0;">
+<span style="background-color:#000000;">
   
 ![Screenshot](screenshots/ringoski-1.png?raw=true) ![Screenshot](screenshots/ringoski-2.png?raw=true) ![Screenshot](screenshots/ringoski-3.png?raw=true) ![Screenshot](screenshots/ringoski-4.png?raw=true)
 
